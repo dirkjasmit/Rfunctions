@@ -16,4 +16,4 @@ git clone https://github.com/dirkjasmit/Rfunctions
 
 unpack in a suitable directory and add to the path
 
-usage depends on the function. Usually you can type <rfunction>.R --help
+usage depends on the function. Usually you can type rfunction.R --help
